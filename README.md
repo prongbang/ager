@@ -3,6 +3,7 @@
 Calculate age from date
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/prongbang/ager)](https://goreportcard.com/report/github.com/prongbang/ager)
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/prongbang)
 
 ```shell
